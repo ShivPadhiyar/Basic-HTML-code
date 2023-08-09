@@ -1,1 +1,5 @@
 basic tags of html
+<body> : We are writing the code/login in this tag.
+<header> : This tag is for header in web page.
+<title>  : This tag is use for giving title of the web page.
+<a       : Anchor Tag , It is use for link.
